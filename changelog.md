@@ -1,3 +1,50 @@
+# Changelogs 3.2
+- Whole source rebase on QPR2
+- Merged April security patch 
+- Redesigned About Phone, Settings Dashboard, Storage and Battery pages
+- Added new bootanimation, logo
+- Bring back statusbar tuner
+- Added 4G , Roaming, Data Disabled toggles 
+- Added statusbar clock and battery styles customisations
+- Added statusbar logo
+- Added privacy indicator toggles
+- Added network traffic indicators
+- Statusbar colored app icons
+- Statusbar app notification counter
+- Added Theming support alongwith monet Theming
+- Added brightness slider styles and position tunable customisation
+- Added A11 QS style with option to switch back to Stock A14
+- Added QS transparency
+- Less boring heads up, Disable QS on secure lockscreen 
+- Vibrate on tiles option
+- Island Notification
+- Rising UI Volume panel 
+- Fingerprint Ripple toggle 
+- Lockscreen charging info
+- Screen off animations
+- Lockscreen music pulse
+- In call vibration options
+- Advanced Restart
+- Ignore window secure flag
+- Haptic feedback on back gesture 
+- Spoofing options toggle 
+- 3 finger screenshot
+- Advanced Screenrecorder
+- Safetynet passed out of build
+- Remove IME button space 
+- Navbar hint toggle
+- Extra QS tiles
+- Double tap to doze and wake options
+
+Dropped things or deprecated in QPR2
+- Applock ( Can be added in future )
+- Gamespace ( Can be added in future )
+- Lockscreen media art
+
+Future Addition probable things 
+- Udfps customization ( Can be added in future )
+- Pocket mode ( Can be added in future )
+
 # Changelogs 3.1
 - Full source rebase to QPR1
 - Merged february security patch
