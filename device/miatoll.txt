@@ -1,3 +1,15 @@
+Changelogs 3.2
+Build Date: 14/04/2024
+
+- Fixed Design Capacity in Battery Info
+- Fixed "OK GOOGLE"
+- Imported surfaceflingers, graphics props from Samsung Galaxy A52
+- Updated media codecs from Samsung Galaxy A52
+- Updated spatial audio blobs from Pixel 7 Pro
+- Disabled CGroup PSI Pressure
+- Switched to AIDL Health HAL
+- Added B5/R3/B9 to IPSEC_TUNNEL_MIGRATION
+
 Changelogs 2.5
 Build Date: 11/02/2023
 
