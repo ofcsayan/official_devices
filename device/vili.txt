@@ -1,3 +1,18 @@
+Changelog v3.2
+Build Date: 04/14/2024
+
+- Based on April security patch
+- Fixed playback on Netflix and other OTT apps
+- Cleaned up device trees
+- Improved Dolby Atmos implementation
+- Switched to simpler xiaomi parts from Haydn
+- Enabled high touch polling rate support
+- Rebased kernel and merged latest changes from LineageOS
+- Updated KSU to the latest version
+- Minor fixes and improvements 
+
+========================================
+
 Changelog v3.1
 Build Date: 02/03/2024
 
