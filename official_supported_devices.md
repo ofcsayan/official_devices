@@ -41,6 +41,7 @@
 2. OnePlus 8 (instantnoodle)
 3. OnePlus 8 Pro (instantnoodlep)
 4. OnePlus 8T (kebab)
+5. OnePlus 9R (lemonades)
 
 ### Asus Devices
 1. Asus Zenfone Max Pro M1 (X00TD)
