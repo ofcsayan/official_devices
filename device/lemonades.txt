@@ -1,3 +1,20 @@
+==================================
+Changelog - v3.2
+Build Date - 17th April, 2024
+==================================
+
+Required Firmware: F.69 or above
+
+- OOS cam
+- No Dolby
+- Switched to Meteoric kernel
+- QPR2 merged
+- Misc improvements
+
+Bugs: 
+- QS tile shape
+- Screen cast
+
 =============================
 Changelog - v2.7
 Build Date - 30th May, 2023
