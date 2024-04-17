@@ -1,3 +1,10 @@
+Changelogs: v3.2
+Build Date: 16/04/2024
+- Synced Latest Blaze v3.2 changes
+- Merged April ASB (android-14.0.0_r31)
+- Shipped with the latest Samar's kernel (v4.14.341)
+- Misc. Fixes and Improvements
+
 Changelogs: v3.1
 Build Date: 18/02/2024
 - Synced Latest Blaze v3.1 changes
