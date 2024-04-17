@@ -1,9 +1,25 @@
 ==================================
+Changelog - v3.2
+Build Date - 17th April, 2024
+==================================
+
+Required Firmware: Stable 2.5.3A or above
+
+- Nuked Dolby
+- QPR2 Merged
+- Nothing Cam included (not perfect)
+- BCR included
+- Updated base to latest 2.5.3A firmware
+- Misc improvements
+
+Bugs: 
+- QS tile shape
+- Screen cast
+
+==================================
 Changelog - v3.1
 Build Date - 27th February, 2024
 ==================================
-
-Required Firmware: Stable 2.5.1 or above
 
 - Initial A14 build
 - Nothing Cam included (not perfect)
