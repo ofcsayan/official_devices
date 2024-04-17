@@ -1,0 +1,10 @@
+Changelogs 3.2
+Build Date: 16/04/2024
+
+- Initial Official build
+- Grapheneoscamera included.
+- Dolby included.
+- fixed screen recorder 
+- Drop 90hz
+- fixed zram
+- Many more....
