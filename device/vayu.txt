@@ -1,5 +1,30 @@
-Version: 2.5
-Build date: 11/02/'23
+Version: 3.2
+Build date: 16/04/'24
 
-- Initial Official Android 13 build
-- Under-the-hood changes/improvements
+- Initial Official Android 14 build
+- parts: Fix cannot find symbol error for UQPR2
+- parts: Migrate to CompoundButton.OnCheckedChangeListener
+- Re added dirac
+- Add missing proprietary files
+- Enable incremental FS feature
+- rro_overlays: SystemUIOverlayVayu: Optimize Status bar top
+- Merge latest SkylineKernel v4.14.342
+
+Flashing steps:
+Clean:
+- Flash firmware (optional)
+- Wipe data, dalvik and cache
+- Flash Blaze
+- Format data
+- Reboot system
+
+Dirty:
+- Flash firmware (optional)
+- Wipe dalvik and cache
+- Flash Blaze
+- Reboot system
+
+some notes:
+- It's already Gapps build so flashing gapps package isn't necessary
+- Be sure to use Recovery that supports A14
+- Driac, Dolby and Gcam are included
