@@ -1,3 +1,20 @@
+Changelogs v3.2
+Build Date: 17/04/2024
+
+- Based on the April Security Patch.
+- Initial build shipped with LOS trees and OSS kernel.
+- Only Melt kernel is supported; other GKI kernels are not supported.
+- Includes Dolby Atmos, ViperFX, BCR, and HyperOS Camera.
+- Clean flash is mandatory.
+- Auto brightness is not functioning.
+
+Thanks to:
+
+- LOS team for the trees.
+- @kssrao13882 for the invaluable support.
+- @desirexel for testing.
+
+
 Changelogs v3.1
 Build Date: 28/02/2024
 
