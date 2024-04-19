@@ -30,6 +30,7 @@
 6. Poco X5 Pro 5G (redwood)
 7. Poco M6 Pro (sky)
 8. POCO M2 Pro (miatoll)
+9. Poco X3 NFC (surya)
 
 ### realme Device
 1. Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
