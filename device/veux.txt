@@ -1,0 +1,10 @@
+Changelogs 3.2
+- Initial Official Android 14 build
+- April security patch
+- Camera working
+- Calls, Bluetooth, Wifi etc works
+- Many under the hood tree side improvements
+
+Credits: 
+Thanks @s_sharma_021, @aquaind and @pavanpoo for the testing help.
+Thanks @ramisky for the tree base
