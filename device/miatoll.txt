@@ -1,3 +1,10 @@
+Changelogs 3.2 HOTFIX
+Build Date: 22/04/2024
+
+- Fixed MiuiCamera random crash after snapping photo
+- Fixed QS Show Data Usage
+- Merged OpenELA .343
+
 Changelogs 3.2
 Build Date: 14/04/2024
 
