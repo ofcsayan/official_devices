@@ -10,7 +10,7 @@ Build Date: 22/04/2024
 
 Kernel
 
-- Upstreamed kernel to 4.14.341 from openela
+- Upstreamed kernel to 4.14.343 from openela
 - KernelSU by default
 
 Credits
