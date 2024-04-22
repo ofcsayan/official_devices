@@ -1,3 +1,23 @@
+Changelogs 3.2-HOTFIX
+- Switched to New Trees
+- Added Miui Camera
+- Fixed VoNR, VoLTE, VoWIFI on all Indian carriers
+- Fixed VoNR on Jio 5G
+- Dropped Moto Dolby on trees (will be added something in next update)
+- Dropped Gcam
+- Import XiaomiParts with adaptation for QPR2
+- Improved brightness through gamma curve
+
+Notes:
+- Safetynet passed out of the build
+- Certified in Play Store 
+
+Credits:
+Thanks @s_sharma_021 for the testing
+Thanks @dereference for the device sources
+
+------------------------------------------------
+
 Changelogs 3.2
 - Initial Official Android 14 build
 - April security patch
