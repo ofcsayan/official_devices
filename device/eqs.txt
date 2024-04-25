@@ -1,6 +1,23 @@
+==================================
+Changelog - v3.2
+Build Date - 25th April, 2024
+==================================
+- QPR2 Merged
+- Ship 32bit\64bit version along with 64bit-only version
+- Fixed Camera Force Closes 
+- Fixed Overheating
+- Shipped with SnowFrost-Inline-KSU kernel with latest KernelSU support
+- kernelSU v0.9.3 merged
+- Misc improvements
+
+Bugs: 
+- QS tile shape
+- Screen cast
+
+==================================
 Changelog v3.1
 Build Date: 05/03/2024
-
+==================================
 - Initial Android 14 Official Build
 - Based on February security patch
 - Shipped with upstreamed 5.10.210 Re:Pulsion kernel with latest KernelSU support
@@ -8,4 +25,4 @@ Build Date: 05/03/2024
 - KernelSU change merged to avoid detection
 
 Known issues:
-- Is there any, let me know!
+- If theres any, let me know!
