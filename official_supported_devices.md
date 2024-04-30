@@ -49,5 +49,3 @@
 ### Nothing Devices
 1. Nothing Phone 1 (Spacewar)
 
-### Motorola Devices
-1. Motorola Edge 30 Ultra / X30 Pro (eqs)
