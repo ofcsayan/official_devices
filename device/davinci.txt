@@ -1,22 +1,19 @@
 Changelog v3.2
-Build Date: 22/04/2024
+Build Date: 2/05/2024
 
 - Sync last Source
-- Mic in calls fixed
-- Auto brightness unstable fixed
-- Included Leica camera 5.0
+- No leica camera
+- New dt rebase
 - Dolby atmos from motorola by default
 - and many other important changes...
 
 Kernel
-
+- Rebase kernel
 - Upstreamed kernel to 4.14.343 from openela
-- KernelSU by default
+
+Notes
+- Mandatory clean installation
+- no kernelsu support for the moment
 
 Credits
-
-- @AMWolfstein
-- @itzdfplayer
-- @Adi20_01
-- @aryannn999
-- @Hopethislasts
+- @Adi20_01 (For DT)
