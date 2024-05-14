@@ -1,3 +1,20 @@
+Version: 3.3
+Build Date: 14/05/2024
+
+- May Security Update
+- Fix PowerOff Alarm 
+- Remove Unnecessary NFC Packages
+- Nuked Live Display
+- Enable video pause workaround for video calling
+- Optimization for Spatial Audio
+- Added OnePlus Dolby
+- Using Prebuilt GCam GO
+- Enable Turbo Charging for supported roms
+- Disable Smooth Display In Settings
+- Set fast charging indicator threshold to 10.8W
+- Nuked Dirac From XiaomiParts [We Now Have Dolby]
+- Arise Note [R3] as Default Kernel [KSU Included]
+
 Version: 3.2
 Build date: 19/04/'24
 
@@ -6,30 +23,6 @@ Build date: 19/04/'24
 - parts: Migrate to CompoundButton.OnCheckedChangeListener
 - Rebase tree to adopt UQPR2
 - Use latest Arise Kernel v4.14.343 [Patched for UQPR2]
-
-Thanks:
-- @TheStrechh for device tree
-- @rdxzv for kernel source
-- @Muichir09 for all the support and help
-- And to all surya dev
-
-Flashing steps:
-Clean:
-- Wipe data, dalvik and cache
-- Flash Blaze
-- Format data
-- Reboot system
-
-Dirty:
-- Wipe dalvik and cache
-- Flash Blaze
-- Reboot system
-
-Notes:
-- It's already Gapps build so flashing gapps package isn't necessary
-- Be sure to use Recovery that supports A14
-- GAPPS and Firmware included 
-- Not all kernel support UQPR2. Check kernel compatibility before flashing
 
 =============================
 Changelog - v2.10
