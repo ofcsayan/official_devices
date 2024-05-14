@@ -1,3 +1,31 @@
+# Changelogs 3.3
+- Dropped Rising UI volume panel
+- Make AOSP volume panel expandable
+- Implement Cutout FullScreen
+- Separated per-app volume from volume panel
+- Fix landscape and right and left battery styles
+- Fix cloned apps
+- Added AppLock
+- Add Blink Flashlight on calls
+- Added Custom Vibration patterns
+- Fixed Google dialer call notification
+- Bring back udfps animations and icons
+- Fixed Lockscreen shortcut paddings
+- Added Google Pixel navigation bar home button
+- Introduce OOS Style clear all button
+- Added toggle for fingerprint authentication vibration
+- Added old Blaze UI from Android 13 & 12.1 with a toggle
+- Fixed Disable QS in secure lockscreen toggle
+- Minor refinements in Music Pulse Settings
+- Major refinements done A11 QS Style settings panel
+- Fixed screencast making whole System UI crash
+- Added Gamespace
+- Vanilla build supports Blaze Launcher
+- Added OTA Support in ROM (From June update you will get direct OTA updates)
+
+Credits:
+@takixamru for Implementing the OTA
+
 # Changelogs 3.2
 - Whole source rebase on QPR2
 - Merged April security patch 
