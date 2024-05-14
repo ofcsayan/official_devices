@@ -1,3 +1,13 @@
+Changelogs 3.3
+Build Date: 14/05/2024
+
+- kinesis omega r2.3 included
+- Added ViLTE props 
+- Switched to AIDL IR HAL
+- Updated NFC blobs from Oneplus 7T Pro
+- Fixed battery drain after 100H uptime
+- Switched back to OSS Camera provider blobs with shims (better compatibility with QPR2)
+
 Changelogs 3.2 HOTFIX
 Build Date: 22/04/2024
 
