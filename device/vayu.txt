@@ -1,3 +1,36 @@
+Version: 3.3
+Build date: 15/05/'24
+
+- Merge latest Skylinekernel
+- Add vanilla variant
+- Import Brightness overlays from miui
+- Fix offline charging icon not showing
+- Optimize Status bar padding top
+
+Flashing steps:
+Clean:                                                                                                                                                  - Remove survival script (vanilla)
+- Flash firmware (optional)
+- Wipe data, dalvik and cache
+- Flash Blaze
+- Flash gapps (vanilla | optional)
+- Format data
+- Reboot system
+
+Dirty:                                                                                                                                                  - Flash firmware (optional)
+- Wipe dalvik and cache
+- Flash Blaze
+- Reboot system
+
+some notes:
+- If you will use blaze gapps variant no need to flash any gapps package (already included), if you will flash vanilla i suggest to use nikgapps
+- Be sure to use Recovery that supports A14
+- Driac, Dolby and Gcam are included
+
+Credits:
+- Thanks to (snowey7809 on github) for server
+
+====================================
+
 Version: 3.2
 Build date: 16/04/'24
 
