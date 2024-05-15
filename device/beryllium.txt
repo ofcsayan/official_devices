@@ -1,3 +1,12 @@
+Changelog - 3.3
+Build Date - 14th May 2024
+- Addressed Fastbootd denials
+- Fixed all types of issue regarding media (lag/stuck)
+- media: Update performance values in xml file
+
+NOTES:
+- Use system_ext recovery
+
 Changelog - 3.1
 Build Date - 24th February 2024
 - Addressed multiple denials
