@@ -1,3 +1,39 @@
+Changelogs 3.3
+- May 2024 security patch
+- Enabled radio/ril power saving
+- Enabled Max/Min refresh rate toggles in display settings
+- Fixed battery drain due to statsd
+- Enable TWS plus feature
+- Enable Qualcomm TrueWireless Stereo
+- Enable suspend to RAM
+- Use HintManager for HWUI
+- Enabled ahead HWUI rendering
+- Update surfaceflinger values from taro
+- Introduced battery friendly pocket mode
+- Enabled 120FPS screen recording (Default)
+- Enabled zygote critical window
+- Preopt Settings/SystemUI
+- Enable bluetooth low power adaptive control feature
+- WIFI: Optimized power management
+- Extend audio offload buffer to 256KB
+- Increased speaker volume
+- Added misoundfx & dirac effects
+- Fixed MiSoundEnhancer crash
+- Added MIUI Dolby with Oneplus App
+  (Audio quality exactly like MIUI)
+- Enabled aptX(HD) offload
+- Enabled sys.use_fifo_ui reduces jitters and janks
+
+Notes:
+- Clean flash is required as OTA support is added in whole source so next update a direct OTA update will come 
+- GAPPS build
+
+Credits:
+Thanks @s_sharma_021 for being my continuous testing partner
+Thanks @dereference for the device sources
+
+---------------------------------------------------
+
 Changelogs 3.2-HOTFIX
 - Switched to New Trees
 - Added Miui Camera
@@ -16,7 +52,7 @@ Credits:
 Thanks @s_sharma_021 for the testing
 Thanks @dereference for the device sources
 
-------------------------------------------------
+---------------------------------------------------
 
 Changelogs 3.2
 - Initial Official Android 14 build
