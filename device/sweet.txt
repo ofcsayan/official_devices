@@ -1,3 +1,9 @@
+Changelog - 3.3
+Build Date - 15th May 2024
+- hbm and dc dimming added
+- Fixed fast charging in ln8000
+- Sleepy kernel by default
+
 Changelog - 3.2
 Build Date - 19th April 2024
 - Leica cam Added
