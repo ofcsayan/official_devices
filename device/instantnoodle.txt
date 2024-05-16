@@ -1,4 +1,21 @@
 ==================================
+Changelog - v3.3
+Build Date - 16th May, 2024
+==================================
+
+Required Firmware: F.71
+
+- OOS Cam
+- Dolby included
+- BCR call recorder included
+- Switched back to Perf+
+- Increase haptics
+- Misc improvements
+
+Bugs: 
+- UDFPS customization settings crashes
+
+==================================
 Changelog - v3.2
 Build Date - 17th April, 2024
 ==================================

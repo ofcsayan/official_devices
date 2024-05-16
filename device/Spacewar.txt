@@ -1,4 +1,19 @@
 ==================================
+Changelog - v3.3
+Build Date - 16th May, 2024
+==================================
+
+Required Firmware: Nos 2.5.5
+
+- Nos Cam included
+- Updated blobs to 2.5.5
+- Improved performance
+- Misc improvements behind the hood
+
+Bugs: 
+- UDFPS customization settings crashes
+
+==================================
 Changelog - v3.2
 Build Date - 17th April, 2024
 ==================================
