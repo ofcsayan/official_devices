@@ -1,9 +1,8 @@
 Changelogs 3.3
 Build Date: 16/05/2024
 
-- Initial Official build
 - May patch included.
-- Dolby included.
+- Added fastcharging on/off option 
 - Fixed offline charging & charging info
 - added soc detection 
 - improvement bb
