@@ -1,3 +1,16 @@
+Changelogs 3.3
+Build Date: 17/05/2024
+
+- Synced with latest blaze source changes
+- Added sku prop for Proper Identification 
+- Switched to Turbo kernel(with ksu)
+- Both Panel Supported(gtx8,fts_ts)
+- underhood optimizations and improvements
+
+Notes:
+- Added Updater, next time you can update through OTA or Local update
+- use LineageOs Recovery
+
 Changelogs 3.2
 Build Date: 15/04/2024
 
