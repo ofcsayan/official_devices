@@ -1,3 +1,16 @@
+Changelog v3.3
+Build Date: 17/05/2024
+-Synced with latest blaze source changes
+-Enabled battery cycle count from battery information
+-Added OP-12 Camera
+
+Notes:
+
+- Added Updater, next time you can update through OTA or Local update
+- if you using Blaze v3.2 you can dirty flash
+
+
+
 Changelog v3.2
 Build Date: 04/14/2024
 
