@@ -1,3 +1,19 @@
+Changelogs v3.3
+Build Date: 18/05/2024
+- Set correct manufacturer
+- Address content_capture_service denial
+- Silence OpenGLRenderer log spam
+- Switch to sw enc/dec for vp9 codec
+- Nuke OMX.qcom.video.decoder.hevc
+- Disable OMX.qcom.video.decoder.hevc.secure
+- Disable OMX.qcom.video.encoder.avc
+- Kernel version updated to 4.19.313
+
+CREDITS -
+• @jabiyeff21 & @dblenk9 For Trees
+• @AkiraNoSushi & @muralivijay9845 For Kernel
+• Thanks @SpeSuper For Testing
+
 Changelogs v3.2
 Build Date: 30/04/2024
 - DT rebased over from crdroid
