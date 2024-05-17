@@ -1,3 +1,9 @@
+Changelogs 3.3 (HOTFIX)
+Build Date: 17/05/2024
+
+- Fixed Play Integrity
+- kinesis omega r2.4 included
+
 Changelogs 3.3
 Build Date: 14/05/2024
 
