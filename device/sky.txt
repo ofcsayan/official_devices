@@ -1,10 +1,9 @@
-ProjectBlaze 3.1
-Build Date: 06/03/2024
+Changelog v3.3
+Build Date: 17/05/2024
+-Synced with latest blaze source changes
+-Enabled battery cycle count from battery information
+-Added FM Radio
+-underhood optimizations and improvements
+Notes:
 
-- Febuary security patch
-- Source changelog https://github.com/ProjectBlaze/official_devices/blob/14/changelog.md
-- Fixed camera issues on newer devices
-- Play integrity pass
-
-Bugs
-- L3 on ott apps
+- Added Updater, next time you can update through OTA or Local update
