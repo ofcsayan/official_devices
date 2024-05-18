@@ -1,3 +1,22 @@
+v3.3 - Date 18 May 2024
+Changelogs:
+- Declare Wi-Fi RTT support
+- Add hotword input for hotword mic concurrency
+- Disable debug.sf.auto_latch_unsignaled
+- Use speed tuning for performance critical applications
+- Rename property to disable MTE in system_server
+- Add new sysprop for Perfetto in Skia
+- Enable lid to control sleep
+- Fix battery design/maximum capacity unavailable
+- KernelSU enable by default.
+
+Notes:
+- Non-FBE and 4.4 kernel based
+- Use firmware 063/087 recommended
+- Use latest NikGApps (for Vanilla).
+
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+
 v3.2 - Date 19 Apr 2024
 Changelogs:
 - Import Pixel libperfmgr Power HAL
