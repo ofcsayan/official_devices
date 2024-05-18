@@ -16,6 +16,7 @@
 9. Redmi Note 11 Pro/+/11E Pro 5G (veux)
 10. Redmi Note 9 Pro/Max/S (miatoll)
 11. Redmi Note 10 Lite (miatoll)
+12. Redmi note 12 pro SPEED EDITION (redwood)
 
 ### Xiaomi Mi Devices
 1. Xiaomi 11T Pro (vili)
@@ -36,12 +37,14 @@
 1. Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
 2. realme X3 (x3)
 3. realme GT Master Edition (Lunaa)
+4. Realme GT 2 Pro (ferrarri)
 
 ### Oneplus Devices
 1. OnePlus 8 (instantnoodle)
 2. OnePlus 8 Pro (instantnoodlep)
 3. OnePlus 8T (kebab)
 4. OnePlus 9R (lemonades)
+5. Oneplus 7 Pro (guacamole)
 
 ### Asus Devices
 1. Asus Zenfone Max Pro M1 (X00TD)
