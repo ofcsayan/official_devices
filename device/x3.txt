@@ -1,70 +1,16 @@
-Changelogs 2.10
-Build Date: 03/10/2023
-- Update kernelSU - 0.6.8
-- Addressed brightness dim when fp enrolled
-- welcome back anubis
-- switch to BBR TCP
-- bump kernel clang to r498229b (17.0.4)
-- misc change for device improvement 
+Build Date: 19-MAY-24
+Build type: Gapps
+Version: 3.3v
+Safetynet status: Passed
 
-Notes :-
-- Based on RUI 2.0 (you can flash with RUI 3 but fp will dead)
-- CTS passed by default
-- Decrypted by default
-
-Changelogs 2.9
-Build Date: 17/08/2023
-
-- Update blobs from RMX2085_11_F.04
-- Use speed tuning for performance critical
-- Import telephony_injection from CAF
-- Disable per-cgroup PSI accounting
-- Build with KProfiles
-- Enable R8 optimizations for SystemUI & system_server
-- Kang EAS configuration from sunfish
-- Avoid migrating foreground tasks to prime
-- Build default Health 2.1 HAL
-- bump kernel clang to r498229 (17.0.3)
-- Address oplus fingerprint hwservices denial
-- Import kerkelSU 0.6.6
-- Backport TEO governor
-
-Notes :-
-- Based on RUI 2.0 (C08)
-- CTS passed by default
-- Decrypted by default
-
-Changelogs 2.1
-Build Date: 16/11/2022
-
-- Added props for smoother scrolling and better responsiveness.
-- Optimised auto brightness adjustment
-- fixed DT2W
-- GoogleCameraGo updated to v3.645515391
--  RealmeHub moved from homepage to system
-- Added memory info in app settings
-- Added Battery info in Battery settings
-- Tune zram performance
-
-Notes :-
-- Based on RUI 2.0 (C08)
-- CTS passed by default
-- Clean flash necessary as trees changed
-- Decrypted by default
-
-
-
-Changelog 2.0
-Build date -> 31-10-2022
-
-Changelog :-
-- Initial Android 13 build
-- Shipped with Zeus Kernel
-- CTS passed by default
-- Shipped with GcamGo
-- Permissive Build
-- Ui lag fixed while screen recording 
-- Decrypted by default
-Notes :-
-- Clean flash mandatory
-- Based on RUI 2.0 (C08)
+Changelogs:
+Introduce Dolby Atmos support
+Clean-up init scripts
+Add battery health configuration
+Backport BPF
+KernelSU Supported
+Kernel merged tag LA.UM.9.1.r1-15900.01-SMxxx0.QSSI14.0
+Vendor blobs update from QC
+Enable RT priority inheritance
+Support pro and low latency audio
+Misc changes for device improvement
