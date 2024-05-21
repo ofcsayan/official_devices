@@ -1,5 +1,19 @@
+ProjectBlaze 3.3
+Build Date: 21/05/2024
+
+Changelog:
+- Remove unused persist.bluetooth.a2dp_offload.cap property
+- Disable FRP
+- Switch to AOSP SurfaceFlingers
+- Prefer /cache backing storage
+- RIL Edits for battery life
+- Compiled kernel with Neutron Clang 18
+- Check Device Update channel for more info
+
 ProjectBlaze 3.1
 Build Date: 05/03/2024
+
+Changelog:
 - Add notch bar killer (fixed full screen apps)
 - Update Adreno Drivers to 530.51 
 - Update Adreno to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
