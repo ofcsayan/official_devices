@@ -1,3 +1,32 @@
+Version: 3.3 (Hotfix for libs)
+Build date: 20/05/'24
+
+- Add props to improve battery backup
+- Add missing camera blob
+- Add libs that added perviously and recently to the mk file
+- Reorder libs in proprietary-files.txt
+
+Flashing steps:
+Clean:                                                                     >
+- Flash firmware (optional)
+- Wipe data, dalvik and cache
+- Flash Blaze
+- Flash gapps (vanilla | optional)
+- Format data
+- Reboot system
+
+Dirty:                                                                     >
+- Wipe dalvik and cache
+- Flash Blaze
+- Reboot system
+
+some notes:
+- If you will use blaze gapps variant no need to flash any gapps package (a>
+- Be sure to use Recovery that supports A14
+- Dirac, Dolby and Gcam are included
+
+====================================
+
 Version: 3.3
 Build date: 15/05/'24
 
@@ -24,7 +53,7 @@ Dirty:                                                                          
 some notes:
 - If you will use blaze gapps variant no need to flash any gapps package (already included), if you will flash vanilla i suggest to use nikgapps
 - Be sure to use Recovery that supports A14
-- Driac, Dolby and Gcam are included
+- Dirac, Dolby and Gcam are included
 
 Credits:
 - Thanks to (snowey7809 on github) for server
@@ -60,4 +89,4 @@ Dirty:
 some notes:
 - It's already Gapps build so flashing gapps package isn't necessary
 - Be sure to use Recovery that supports A14
-- Driac, Dolby and Gcam are included
+- Dirac, Dolby and Gcam are included
