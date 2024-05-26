@@ -1,3 +1,44 @@
+Changelog v3.3
+Build Date: 05/26/2024
+
+Device:
+- Based on May security patch
+- Fixed crashes for several apps caused by ART
+- Updated vili specific blobs to V816.0.2.0.UKDMIXM (credits to TheStrechh)
+- Updated included firmware to V816.0.2.0.UKDMIXM
+- Updated common blobs from Haydn V816.0.2.0.UKKMIXM
+- Added some missing dolby atmos props
+- Added props for better RAM management
+- Set thread count for dex2oat
+- Dropped QTI thermal HAL service
+- Dropped livedisplay leftovers
+- Adjust cpu sets for background tasks
+- Now it should show "Turbo charging" instead of "charging rapidly"
+- Downgraded netmgrd to LAHAINA-19300 (should fix VoWifi)
+- Updated CarrierConfig from Nothing phone (2) and LA.QSSI.14.0.r1-12000-qssi.0
+- Disabled unsupported perf resources
+- Enabled 'core' config for Multi-Gen LRU
+- Label some missing wakeup nodes
+- Switched to common Lineage power HAL
+- Imported powerhint and tuned interaction boost values
+
+Kernel:
+- Initial Void release
+- Updated KSU to v0.9.4
+- Rebased to latest LineageOS kernel
+- Upstreamed to 5.4.276
+- Added support for Lazy RCU
+- Re-enabled Multi-Gen LRU
+- Added support for teo idle scheduler
+- Added support for EEVDF cpu scheduler
+- Improvements for CPU input boosts
+- Dropped unnecessary debug configs
+- Switched to step-wise thermal governor
+- Various other performance improvements
+
+
+========================================
+
 Changelog v3.2
 Build Date: 04/14/2024
 
