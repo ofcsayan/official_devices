@@ -1,4 +1,23 @@
+Changelogs 3.3-HOTFIX
+Build Date: 28th May, 2024
+
+- Signed Build
+- Safetynet & certification passed
+- Import Qti Memory optimisation props
+
+Note:
+- OTA has been pushed
+- Dirty flash works from 3.3
+- If OTA didn't came dirty flash this build
+
+Credits:
+Thanks @s_sharma_021 for being my continuous testing partner
+Thanks @dereference for the device sources
+
+-----------------------------------------------
+
 Changelogs 3.3
+
 - May 2024 security patch
 - Enabled radio/ril power saving
 - Enabled Max/Min refresh rate toggles in display settings
@@ -32,9 +51,10 @@ Credits:
 Thanks @s_sharma_021 for being my continuous testing partner
 Thanks @dereference for the device sources
 
----------------------------------------------------
+-----------------------------------------------
 
 Changelogs 3.2-HOTFIX
+
 - Switched to New Trees
 - Added Miui Camera
 - Fixed VoNR, VoLTE, VoWIFI on all Indian carriers
@@ -52,9 +72,10 @@ Credits:
 Thanks @s_sharma_021 for the testing
 Thanks @dereference for the device sources
 
----------------------------------------------------
+-----------------------------------------------
 
 Changelogs 3.2
+
 - Initial Official Android 14 build
 - April security patch
 - Camera working
