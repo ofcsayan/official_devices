@@ -1,19 +1,35 @@
-Changelog v3.2
-Build Date: 2/05/2024
+Changelog v3.3
+Build Date: 29/05/2024
 
 - Sync last Source
-- No leica camera
-- New dt rebase
+- Add Leica camera by default
+- New dt rebase from lineageos by arian
 - Dolby atmos from motorola by default
+- overlay: Adjust offset for udfps animations 
+- overlay: Enable screen off UDFPS setting
+- audio: add ACDB IDs for voice recording
+- set TARGET_USES_VULKAN & HWUI_COMPILE_FOR_PERF
+- prop: Switch to skiagl threaded
+- Enable anti_flicker by default
+- Update public libraries from sweet V14.0.9.0.TKFMIXM
+- Update vsync work duration
+- prop: Explicitly disable "Enable GL comp backpressure"
+- Device tree now signed for pass safety
 - and many other important changes...
 
 Kernel
-- Rebase kernel
-- Upstreamed kernel to 4.14.343 from openela
+- Switch to Sleepy Kernel
+- Upstreamed kernel to 4.14.344
+- Support KernelSU
 
 Notes
 - Mandatory clean installation
-- no kernelsu support for the moment
+- It is important to flash the new recovery that is in the download link
 
 Credits
-- @Adi20_01 (For DT)
+- @Adi20_01
+- @Hopethislasts
+- @Omar99A
+- @itzdfplayer
+- @itsshashanksp
+- @aryannn999
