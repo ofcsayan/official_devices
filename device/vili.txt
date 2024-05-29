@@ -1,16 +1,12 @@
 Changelog v3.3
-Build Date: 05/26/2024
+Build Date: 05/28/2024
 
 Device:
+- Signed user build to pass play integrity by default
 - Based on May security patch
 - Fixed crashes for several apps caused by ART
-- Updated vili specific blobs to V816.0.2.0.UKDMIXM (credits to TheStrechh)
-- Updated included firmware to V816.0.2.0.UKDMIXM
-- Updated common blobs from Haydn V816.0.2.0.UKKMIXM
 - Added some missing dolby atmos props
-- Added props for better RAM management
 - Set thread count for dex2oat
-- Dropped QTI thermal HAL service
 - Dropped livedisplay leftovers
 - Adjust cpu sets for background tasks
 - Now it should show "Turbo charging" instead of "charging rapidly"
@@ -21,6 +17,8 @@ Device:
 - Label some missing wakeup nodes
 - Switched to common Lineage power HAL
 - Imported powerhint and tuned interaction boost values
+- Reverted to MIUI 14 blobs and firmware
+- Fixed bluetooth issues caused by signing the build
 
 Kernel:
 - Initial Void release
@@ -36,6 +34,8 @@ Kernel:
 - Switched to step-wise thermal governor
 - Various other performance improvements
 
+VERY IMPORTANT NOTE:
+Unfortunately due to blobs being reverted back to MIUI 14, a clean flash is required. DO NOT update via OTA or dirty flash from a previous build, it will not boot.
 
 ========================================
 
