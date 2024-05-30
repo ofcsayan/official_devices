@@ -1,3 +1,9 @@
+Changelogs 3.3-HOTFIX
+Build Date: 30th May, 2024
+
+- Signed Build
+- Safetynet & certification passed
+
 Changelogs 3.3
 Build Date: 16/05/2024
 
@@ -7,7 +13,6 @@ Build Date: 16/05/2024
 - added soc detection 
 - improvement bb
 - Misc improvements....
-
 
 Changelogs 3.2
 Build Date: 16/04/2024
