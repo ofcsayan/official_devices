@@ -1,18 +1,31 @@
+Project Blaze 3.3 Changelog
+Build Date: 30/05/2024
+- Signed build
+- Safetynet and certification passed
+
+----------------------------------
+
 Project Blaze v3.1 Changelog
 - Initial Android 14 release
 - Released with Blaze version 3.1
 NOTE:- Use the recommened recovery given below:
 https://github.com/zeelog/device_mido_twrp/releases/download/3.0/twrp_3.7.0_12-0-mido.img
 
+----------------------------------
+
 ProjectBlaze 2.9 Changelog 
 Build Date: 19/08/2023
 
 - No Changes
 
+----------------------------------
+
 ProjectBlaze 2.8 Changelog 
 Build Date: 27/07/2023
 
 - No Changes
+
+----------------------------------
 
 ProjectBlaze 2.7 Changelog 
 Build Date: 15/05/2023
@@ -22,6 +35,8 @@ Build Date: 15/05/2023
 - Encrypted Build
 - Use updated twrp : https://sourceforge.net/projects/nranjan-17/files/FBE%20Recovery/twrp_3.7.0_12-0-mido.img/download
 - Use this Guide : https://raw.githubusercontent.com/NRanjan-17/Pixel-Experience-Releases/main/install_guide.md
+
+----------------------------------
 
 ProjectBlaze 2.6 Changelog
 Build Date: 25/03/2022
@@ -34,6 +49,8 @@ Build Date: 25/03/2022
 - Fixed QS QR code shortcut unavailable. Just Update your play services
 - Build libstdc++.so from source
 - HW Light working and Nav Bar are on by default turn them off in BlazeHouse buttons sections and give your device reboot and enjoy only Hw Buttons.
+
+----------------------------------
 
 ProjectBlaze 2.5 Changelog
 Build Date: 09/02/2022
@@ -90,6 +107,8 @@ Build Date: 09/02/2022
 - mido: parts: Fix compilation for QPR1 merge
 - added aidl light hals
 
+----------------------------------
+
 ProjectBlaze 2.1 Changelog
 Build Date: 15/11/2022
 
@@ -98,6 +117,8 @@ Build Date: 15/11/2022
 - mido: Updated fp/desc to November
 - Synced with latest source
 - Added Back Key Customizations
+
+----------------------------------
 
 ProjectBlaze 2.0 Changelog
 Build Date: 19/10/2022
@@ -119,6 +140,8 @@ Build Date: 19/10/2022
 - Updated kernel to 4.9.330~hyper-v2.0
 - Clean Flash Recommended
 
+----------------------------------
+
 ProjectBlaze 1.5-EOL Changelog
 Build Date: 12/09/2022
 
@@ -137,6 +160,8 @@ Build Date: 12/09/2022
 - mido: Drop default DRM service
 - mido: parts: Update translations
 - mido: Upstream kernel to 4.9.326~hyper
+
+----------------------------------
 
 ProjectBlaze 1.4 Changelog 
 Build Date: 13/08/2022
