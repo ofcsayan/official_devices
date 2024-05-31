@@ -1,3 +1,13 @@
+Changelogs 3.3-HOTFIX
+Build Date: 30/05/2024
+
+- Synced with latest source
+- Signed build
+- Safetynet and certification passed
+
+NOTE:
+- Use the provided images to flash the rom
+
 Changelogs 3.3
 Build Date: 17/05/2024
 
