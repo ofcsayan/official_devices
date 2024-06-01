@@ -1,3 +1,21 @@
+Version: 3.3.1 [Hotfix v3.3]
+Build Date: 01/06/2024
+
+Device Changelog:
+- May Security Patch
+- Signed with my private keys
+- Fixed DT2W Not Working
+- Fixed Play Integrity [Passed by default]
+- Use common libqti-perfd-client and power-libperfmgr
+- Provide a static lib for power mode extension
+- Arise Igris (R1) Kernel [KSU]
+
+Source Changelog:
+- Enable inline sigining for user and userdebug build
+- PixelPropsUtils: spoofBuildGms: Support RELEASE & INCREMENTAL
+- PixelPropsUtils: Clean up and update
+- pm: Add seamless migration between test and release keys
+
 Version: 3.3
 Build Date: 14/05/2024
 
