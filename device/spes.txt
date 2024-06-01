@@ -1,3 +1,8 @@
+Changelogs v3.3 - Hotfix
+Build Date: 30/05/2024
+- Signed Build
+- Reverted some codec related changes
+
 Changelogs v3.3
 Build Date: 18/05/2024
 - Set correct manufacturer
