@@ -1,6 +1,8 @@
 Changelogs 3.3-HOTFIX
 Build Date: 30/05/2024
 
+- fts_ts support dropped 
+- Switched to Atomxkernel (ksu)
 - Synced with latest source
 - Signed build
 - Safetynet and certification passed
