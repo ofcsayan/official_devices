@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1715679891,
-      "size": 1982699780,
-      "filehash": "d122704990c38c54fa9f81bedc8a4e41",
-      "filename": "ProjectBlaze-3.3-beryllium-20240514-0951-GAPPS-OFFICIAL.zip",
-      "id": "336d7c2b6bbb5621a75fbd04c2c826a20b4729253a6423cd0193723cbf7135e0",
+      "datetime": 1717440267,
+      "size": 1977683637,
+      "filehash": "11ea2781642e46f3503398d1ad453069",
+      "filename": "ProjectBlaze-3.3-beryllium-20240603-1847-GAPPS-HOTFIX-OFFICIAL.zip",
+      "id": "1f35082243f5f54ccf2f885305e3c5bb6b81214ae4899e3ea7da7bf1533a39e8",
       "romtype": "OFFICIAL",
       "version": "3.3",
-      "url": "https://sourceforge.net/projects/projectblaze/files/beryllium/ProjectBlaze-3.3-beryllium-20240514-0951-GAPPS-OFFICIAL.zip/download"
+      "url": "https://sourceforge.net/projects/projectblaze/files/beryllium/ProjectBlaze-3.3-beryllium-20240603-1847-GAPPS-HOTFIX-OFFICIAL.zip/download"
     }
   ]
 }
