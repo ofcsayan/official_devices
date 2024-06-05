@@ -28,3 +28,9 @@ Build Date: 15/05/2024
 - sde_connector/fod_hbm: kill early notify optimization
 - goodix/gf_spi: cleanups and optimizations:
 - KernelSU included
+
+Version: 3.3
+Build Date: 05/06/2024
+
+- Many changes in kernel
+- Signed build so PI should pass by default
