@@ -1,3 +1,18 @@
+Changelogs v3.3
+Build Date: 05/06/2024
+
+- Signed build to pass Play Integrity again
+- Updated build fingerprint 
+- Updated ViperFX to latest 6.3
+- Updated BCR to latest 1.63
+
+Thanks to:
+
+- LOS team for the trees.
+- @kssrao13882 for the invaluable support.
+- @DRKWLD for testing.
+
+
 Changelogs v3.2
 Build Date: 17/04/2024
 
