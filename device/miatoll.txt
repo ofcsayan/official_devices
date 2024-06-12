@@ -1,3 +1,15 @@
+Changelogs 3.4
+Build Date: 13/06/2024
+- kinesis omega r2.8
+- Fixed dual sim keep prompting
+- Added telephony radio blobs from AOSPA
+- Updated CarrierConfig from LA.QSSI.14.0.r1-12000-qssi.0
+- Updated power_profile from MIUI14
+- Enable ADPF cpu hints
+- Increase hw timeout multiplier
+- Silence some useless logs
+- Nuked Pixel Thermal HAL
+
 Changelogs 3.3 (HOTFIX)
 Build Date: 17/05/2024
 
