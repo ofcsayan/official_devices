@@ -1,3 +1,12 @@
+# Changelogs 3.4
+- May security patch
+- Fixed wired headphones
+- Fixed A11 rectangle and rounded rectangle QS tile shapes
+- Fixed Hide Navigation Bar (Reverse Logic)
+- Added Custom Lockscreen clock styles
+- Added Battery friendly pocket mode
+- Added Datura Firewall from CalyxOS
+
 # Changelogs 3.3
 - Dropped Rising UI volume panel
 - Make AOSP volume panel expandable
