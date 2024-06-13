@@ -1,3 +1,24 @@
+v3.4 - Date 13 Jun 2024
+Changelogs:
+- Switch from Schedtune to UClamp
+- Add display config file
+- Add net_raw permissions for time_daemon service
+- Disable dynamic fps
+- Enable perf hint window
+- Set valid and supported channel mask for earpiece
+- Enable fingerprint gestures support
+- Increase handset volume
+- Extend audio offload buffer size to 256kb
+- KernelSU enable by default.
+
+Notes:
+- Non-FBE and 4.4 kernel based
+- Use firmware only 063/087 recommended
+- Use latest NikGApps (for Vanilla)
+- Use this [TWRP](https://sourceforge.net/projects/customromx00t/files/twrp/twrp-3.7.1_12.1-K4.4.img/download)
+
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+
 v3.3 - Date 18 May 2024
 Changelogs:
 - Declare Wi-Fi RTT support
