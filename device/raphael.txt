@@ -1,3 +1,12 @@
+Changelogs 3.4
+Build Date : 13th June 2024
+
+-> Initial build
+-> May security patches
+-> Miui Camera Inbuild
+-> Last Soviet Kernel Update
+-> Build Signed (for working play integrity & CTS)
+
 Changelogs 2.8
 Build Date : 17th July 2023
 
