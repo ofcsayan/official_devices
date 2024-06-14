@@ -1,3 +1,38 @@
+Version: 3.4 (Clean flash is highly recommended)
+Build date: 13/06/'24
+- Signed build
+- Set VENDOR_SECURITY_PATCH To PLATFORM
+- Replace isolated_app with isolated_app_all
+- rootdir: Fix the battery drain due to statsd
+- rootdir: Restore I/O performance
+- init: Set default Wi-Fi country code to '00'
+- wlan: Enable Optimized Power Management
+- Add BUILD_BROKEN_INCORRECT_PARTITION_IMAGES (to fix qcom issue)
+
+Flashing steps:
+Clean:
+- Flash firmware (optional)
+- Wipe data, dalvik and cache
+- Flash Blaze
+- Flash gapps (vanilla | optional)
+- Format data
+- Reboot system
+
+Dirty:
+- Wipe dalvik and cache
+- Flash Blaze
+- Reboot system
+
+some notes:
+- If you will use blaze gapps variant no need to fla>
+- Be sure to use Recovery that supports A14
+- Dirac, Dolby and Gcam are included
+
+Credits:
+- Thanks to Mahinh611 for testing
+
+====================================
+
 Version: 3.3 (Hotfix for libs)
 Build date: 20/05/'24
 
@@ -7,7 +42,7 @@ Build date: 20/05/'24
 - Reorder libs in proprietary-files.txt
 
 Flashing steps:
-Clean:                                                                     >
+Clean:
 - Flash firmware (optional)
 - Wipe data, dalvik and cache
 - Flash Blaze
@@ -15,13 +50,13 @@ Clean:                                                                     >
 - Format data
 - Reboot system
 
-Dirty:                                                                     >
+Dirty:
 - Wipe dalvik and cache
 - Flash Blaze
 - Reboot system
 
 some notes:
-- If you will use blaze gapps variant no need to flash any gapps package (a>
+- If you will use blaze gapps variant no need to flash any gapps package
 - Be sure to use Recovery that supports A14
 - Dirac, Dolby and Gcam are included
 
@@ -37,7 +72,8 @@ Build date: 15/05/'24
 - Optimize Status bar padding top
 
 Flashing steps:
-Clean:                                                                                                                                                  - Remove survival script (vanilla)
+Clean:
+- Remove survival script (vanilla)
 - Flash firmware (optional)
 - Wipe data, dalvik and cache
 - Flash Blaze
@@ -45,7 +81,8 @@ Clean:                                                                          
 - Format data
 - Reboot system
 
-Dirty:                                                                                                                                                  - Flash firmware (optional)
+Dirty:
+- Flash firmware (optional)
 - Wipe dalvik and cache
 - Flash Blaze
 - Reboot system
