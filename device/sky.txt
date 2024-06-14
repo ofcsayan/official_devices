@@ -1,9 +1,9 @@
-Changelog v3.3
-Build Date: 17/05/2024
+Changelog v3.4
+Build Date: 14/06/2024
 -Synced with latest blaze source changes
--Enabled battery cycle count from battery information
--Added FM Radio
+-Siged build to pass itegrity check
+-Modded thermals
 -underhood optimizations and improvements
-Notes:
 
-- Added Updater, next time you can update through OTA or Local update
+Notes:
+- Clean Flash mandatory 
