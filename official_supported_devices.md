@@ -1,9 +1,5 @@
 # Officially Supported devices of ProjectBlaze
 
-### Google Devices 
-1. Google Pixel 6 (oriole)
-2.  Google Pixel  6 Pro (raven)
-
 ### Redmi Devices
 1. Redmi 12 5G (sky)
 2. Redmi Note 4 (mido)
@@ -28,12 +24,11 @@
 1. Poco F1 (beryllium)
 2. Poco F5 (marble)
 3. Poco X3 Pro (vayu)
-4. Poco X4 pro (veux)
-5. Poco X5 5G (stone)
-6. Poco X5 Pro 5G (redwood)
-7. Poco M6 Pro (sky)
-8. POCO M2 Pro (miatoll)
-9. Poco X3 NFC (surya)
+4. Poco X5 5G (stone)
+5. Poco X5 Pro 5G (redwood)
+6. Poco M6 Pro (sky)
+7. POCO M2 Pro (miatoll)
+8. Poco X3 NFC (surya)
 
 ### realme Device
 1. Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
@@ -53,4 +48,3 @@
 
 ### Nothing Devices
 1. Nothing Phone 1 (Spacewar)
-
