@@ -17,10 +17,12 @@
 10. Redmi Note 9 Pro/Max/S (miatoll)
 11. Redmi Note 10 Lite (miatoll)
 12. Redmi note 12 pro SPEED EDITION (redwood)
+13. Redmi K20 Pro (raphael)
 
 ### Xiaomi Mi Devices
 1. Xiaomi 11T Pro (vili)
 2. Xiaomi Mi 9T (davinci)
+3. Xiaomi MI 9T Pro (raphael)
 
 ### Poco Devices
 1. Poco F1 (beryllium)
