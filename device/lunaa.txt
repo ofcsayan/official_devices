@@ -1,3 +1,14 @@
+Changelog v3.4
+Build Date: 15/06/2024
+- Synced with latest Blaze changes
+- Fixed Wired Headphone issue
+- Signed build
+- Cts passsed by default
+- Removed KernelSU
+
+Notes:
+- You can't update from updater due to unsign build to sign build, so sideload is recommended(dirty flash) 
+
 Changelog v3.3
 Build Date: 17/05/2024
 -Synced with latest blaze source changes
