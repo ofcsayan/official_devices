@@ -1,0 +1,10 @@
+Changelog - v3.4
+Build Date - 14/06/2024
+- Positron kernel by default
+- DT2W not working
+- safetynet and play integrity pass (signed build) 
+
+Changelogs - v3.1
+Build Date - 21/02/2024
+- Initial official build
+- Kewl kernel by default
