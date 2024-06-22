@@ -1,3 +1,16 @@
+# Changelogs 3.5
+- June security patch
+- Merged android QPR3
+- Added charging control 
+- Added 2 new AI based Blaze wallpapers by @mfxrce
+- Replaced Google Dialer with AOSP Dialer in GAPPS build
+- Added Auto Call recording in AOSP Dialer
+- Vanilla build has Launcher3 (but not adapted to blaze yet)
+- Fixed tap to sleep option in BlazeHouse
+- Removed buggy Google NumOverlay Clock style which was causing bootloop
+- Fixed screen recording for some devices
+- [TEMP] Removed HD VoLTE Icon
+
 # Changelogs 3.4
 - May security patch
 - Fixed wired headphones
