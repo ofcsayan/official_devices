@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1718200894,
-      "size": 2404081645,
-      "filehash": "b0696b8520b7fab9677e276d5faa1fac",
-      "filename": "ProjectBlaze-3.4-miatoll-20240612-1401-GAPPS-OFFICIAL.zip",
-      "id": "5152baf02c02404eaead3286a7d4fdb1737efc6469a9d856c33d8a5dd4abb598",
+      "datetime": 1719067014,
+      "size": 2454897392,
+      "filehash": "d6736459565c6d8859256be002dd992e",
+      "filename": "ProjectBlaze-3.5-miatoll-20240622-1438-GAPPS-OFFICIAL.zip",
+      "id": "8109b1ba6ab25e7f14f9a73932efb717a3f3645519180aa0745f9159803c8ac4",
       "romtype": "OFFICIAL",
-      "version": "3.4",
-      "url": "https://sourceforge.net/projects/projectblaze/files/miatoll/Blaze-v3.4-20240612-1401/ProjectBlaze-3.4-miatoll-20240612-1401-GAPPS-OFFICIAL.zip/download"
+      "version": "3.5",
+      "url": "https://sourceforge.net/projects/projectblaze/files/miatoll/Blaze-v3.5-20240622-1438/ProjectBlaze-3.5-miatoll-20240622-1438-GAPPS-OFFICIAL.zip/download"
     }
   ]
 }
