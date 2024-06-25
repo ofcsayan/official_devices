@@ -1,3 +1,16 @@
+Changelog v3.5
+Build Date: 25/06/2024
+
+- Initial build QPR3
+- Rebase device tree
+- Update blobs to latest HyperOS release
+- Moto Dolby audio by default
+- cts passing
+
+Kernel
+- Upstreamed kernel to 4.14.348
+
+
 Changelog v3.3
 Build Date: 29/05/2024
 
