@@ -1,3 +1,16 @@
+Changelogs 3.5
+Build Date: 26/06/2024
+
+- AtomxKernel With Ksu
+- Mi Cam (Leica)included
+- Xiaomi Dolby Included
+- the night photo option does not have the purple tint in the photos
+- Blobs Updated to leteast
+- Firmware is included
+- NFC works fine
+- Seftynet passed by Default
+- Many More Check your self
+
 Changelogs 3.3-HOTFIX
 Build Date: 30/05/2024
 
