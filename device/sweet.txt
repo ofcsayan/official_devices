@@ -1,3 +1,9 @@
+Changelog - 3.5
+Build Date - 25th june 2024
+- Initial qpr3 release
+- Switch to strixx kernel
+- Double tap to wake not working
+
 Changelog - 3.3-HOTFIX
 Build Date - 4th june 2024
 - sign build
