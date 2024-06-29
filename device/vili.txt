@@ -1,3 +1,25 @@
+Changelog v3.5
+Build Date: 06/29/2024
+
+Device:
+- Signed user build to pass play integrity by default
+- Based on June security patch
+- Tuned powerhint based on more efficient frequencies
+- Added hint to limit cpu and gpu max clocks when battery saver is enabled
+- Added hint to disable Prime core when battery saver is enabled
+- Improved dolby audio config
+- Fixed thermal config path and permission for Xiaomi parts
+- Switched to vendor-defined display color modes
+- Added charging control and fastcharge support
+
+Kernel:
+- Upstreamed to 5.4.278
+- Undervolt gpu
+- Add support for init brightness level
+- Dropped kernelsu support. Use APatch or magisk instead
+
+========================================
+
 Changelog v3.3
 Build Date: 05/28/2024
 
