@@ -1,3 +1,16 @@
+ProjectBlaze 3.5
+Build Date: 28/06/2024
+
+Changelog:
+- Add touch improvement sysprops
+- Disable kpti
+- Adjust libdisplay config
+- Switch to new AIDL IR Service
+- power: Don't restrict CPU idle levels
+- Set double tap mode from powerhint
+- Build Signing enabled
+- Check Device Update channel for more info
+
 ProjectBlaze 3.3
 Build Date: 21/05/2024
 
