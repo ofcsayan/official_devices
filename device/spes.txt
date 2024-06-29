@@ -1,3 +1,19 @@
+Changelogs v3.5
+Build Date: 29/06/2024
+- Rework thermal
+- Update blobs from miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM
+- Switch to SF phase offsets from redfin
+- Drop vsync offset properies
+- Switch to parts based refresh rate QS Tile
+- Build missing camera & audio libraries for 14 QPR3
+- Bring back refresh rate customizations on settings
+- Shifted to NightSilver kernel
+
+CREDITS -
+• @jabiyeff21 & @dblenk9 For Trees
+• @AkiraNoSushi & @muralivijay9845 For Kernel
+• Thanks @pratikanurag & @Waaaaay2sexy & @whatdafok For Testing
+
 Changelogs v3.3 - Hotfix
 Build Date: 30/05/2024
 - Signed Build
