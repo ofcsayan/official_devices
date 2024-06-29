@@ -1,3 +1,27 @@
+Changelogs 3.5
+Build Date : 29th June 2024
+
+-> Sync with last source (QPR3 merged)
+-> Update with last change of SOVIET Kernel
+-> Miuicamera Fixed
+-> Autobrightness Fixed (when it should have decreased)
+-> "drop ipacm + tetheroffload"
+-> explicitly build some vndk vendor libraries
+-> use media_codecs from caf hw media
+-> Revert "raphael: Import google media codecs"
+-> Build missing libraries for 14 QPR3
+-> Update manifest to level 5
+-> Update FCM for QPR3
+-> Configure Dalvik heap for all rapahel sku
+-> Silence some spammy logging
+-> Drop OMX.qcom.video.decoder.avc
+-> parts: Theme the popup camera dialog
+-> parts: Allow to always display front camera open dialog
+-> parts: Show alert dialog before raising camera when screen is off
+-> Revert "raphael:overlay: Hide the "Enable wireless display" menu item"
+-> Revert "raphael:overlay: do not declare WFD support"
+-> ... and other small improvements
+
 Changelogs 3.4
 Build Date : 13th June 2024
 
