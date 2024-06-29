@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1716110784,
-      "size": 2629003144,
-      "filehash": "d5ddffcefd943e9479f321deb78f9702",
-      "filename": "ProjectBlaze-3.3-x3-20240519-0929-GAPPS-OFFICIAL.zip",
-      "id": "435f15331eb5a2a055341c7da123eb7ab84eb74285b49e2fb4e4ee4e0a9d241d",
+      "datetime": 1719668169,
+      "size": 2754874093,
+      "filehash": "898aefebdcbe0a393f3ff4d63f6607ba",
+      "filename": "ProjectBlaze-3.5-x3-20240629-1343-GAPPS-OFFICIAL.zip",
+      "id": "df2c5aa2752301430edc627033b647f6fce3c19953acb0219cf5fd8b5742a73b",
       "romtype": "OFFICIAL",
-      "version": "3.3",
-      "url": "https://sourceforge.net/projects/projectblaze/files/x3/ProjectBlaze-3.3-x3-20240519-0929-GAPPS-OFFICIAL.zip/download"
+      "version": "3.5",
+      "url": "https://sourceforge.net/projects/projectblaze/files/x3/ProjectBlaze-3.5-x3-20240629-1343-GAPPS-OFFICIAL.zip/download"
     }
   ]
 }

@@ -1,16 +1,15 @@
-Build Date: 19-MAY-24
+Build Date: 29-JUN-24
 Build type: Gapps
-Version: 3.3v
+Version: 3.5v
 Safetynet status: Passed
 
 Changelogs:
-Introduce Dolby Atmos support
-Clean-up init scripts
-Add battery health configuration
-Backport BPF
-KernelSU Supported
-Kernel merged tag LA.UM.9.1.r1-15900.01-SMxxx0.QSSI14.0
-Vendor blobs update from QC
-Enable RT priority inheritance
-Support pro and low latency audio
-Misc changes for device improvement
+Introduce Hyper kernel
+Kernel merge with latest openela (4.14.348)
+Build missing libraries for 14 QPR3
+Update manifest to level 5
+Enabled CABC Balance mode by default
+Refactor file paths for display and touchpanel
+Update dex2ota from CAF
+Store Socket ID for drivers
+More changes for device improvements
