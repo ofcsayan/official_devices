@@ -1,3 +1,27 @@
+Changelogs 3.5
+Build Date 29 June, 2024
+
+- Signed Build
+- Device Certified by Default
+- Initial QPR3 release.
+- Comes with June SP.
+- Added Oneplus Dolby
+- Added Display Color Modes
+- Added Doze Auto Brightness
+- Added Auto Brightness on Always on Display
+- Added GCam along with MiCam
+- VoLTE, VoNR and other Sim services working
+
+Note:
+- OTA is broken, Dirty flash from previous build
+- Dirty flash works if coming from my Unofficial build
+
+Credits:
+Thanks to @aquamanindiano for testing
+Thanks @dereference for the device sources
+
+-----------------------------------------------
+
 Changelogs 3.3-HOTFIX
 Build Date: 28th May, 2024
 
