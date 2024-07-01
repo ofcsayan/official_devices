@@ -1,3 +1,34 @@
+Version: 3.5
+Build date: 29/06/'24
+- QPR3 Adapt
+- overlay: lineage-sdk: Enable an gcam to use aux camera
+
+Flashing steps:
+Clean:
+- Flash firmware (optional)
+- Wipe data, dalvik and cache
+- Flash Blaze
+- Flash gapps (vanilla | optional)
+- Format data
+- Reboot system
+
+Dirty:
+- Wipe dalvik and cache
+- Flash Blaze
+- Reboot system
+
+some notes:
+- If you will use blaze gapps variant no need to flash
+- Be sure to use Recovery that supports A14
+- Dirac, Dolby and Gcam are included
+- Use Nikgapps,releases 10Feb (vanilla)
+
+Credits:
+- Thanks to mizushino_hunter Mohit Nikomy111 Mahinh611 AbdullahKun for testing
+- Thanks to for mfxrce banner
+
+====================================
+
 Version: 3.4 (Clean flash is highly recommended)
 Build date: 13/06/'24
 - Signed build
