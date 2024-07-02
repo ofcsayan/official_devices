@@ -1,0 +1,20 @@
+
+Project Blaze Garnet
+by PriQue
+July 02, 2024
+
+
+    Initial build OFFICIAL
+    Fix screen recording
+    Introduce Dolby Atmos
+    Import dolby blobs
+    Enable Dolby Vision in hwcomposer
+    Override HDR types for dolby vision
+    Added spatial audio for dolby (surround)
+    Added blobs dolby audio
+    Added blobs dolby vision from stock
+    Import media_codecs_with_taro.xml from stock
+    Added toggle QS dolby
+    Added pocket mode support
+    Device certified default 
+    Minor fixes for smoother scrolling
