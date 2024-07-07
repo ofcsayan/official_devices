@@ -1,4 +1,25 @@
 Changelog v3.5
+Build Date: 7/07/2024
+- Sync last source
+- Rebase device tree from arian
+- Update adreno blobs to v767
+- Add common missing camera blob
+- Support Moto Dolby
+- Add Leica Camera
+- Fix double tap to wake up screen
+- Fixed Fingerprint unlock animations
+- Add KernelSU
+- fixed delay when turning on the screen
+
+Kernel
+- Upstreamed kernel to 4.14.348
+- New sleepy kernel added
+
+Note
+- Clean installation is mandatory
+- The recovery can be extracted from the zip of the rom, it is already signed.
+
+Changelog v3.5
 Build Date: 25/06/2024
 
 - Initial build QPR3
