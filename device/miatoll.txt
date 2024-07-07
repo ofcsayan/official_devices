@@ -1,3 +1,14 @@
+Changelogs 3.6
+Build Date: 07/07/2024
+- kinesis omega r4.0
+- Partially update adreno to v757
+- Enabled Device as Webcam
+- Switched back to prebuilt audio
+- Switched back to pixel thermal
+- Changes to several blobs symlinks (EGL, IMS, WiFi)
+- Upgraded to QTI USB Gadget 1.2 HAL
+- Removed software OMX blobs, uses AOSP default C2 OMX
+
 Changelogs 3.5
 Build Date: 23/06/2024
 - kinesis omega r3.0 (Rebased from los kernel)
