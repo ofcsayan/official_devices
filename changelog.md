@@ -1,3 +1,16 @@
+# Changelogs 3.6
+- July security patch
+- Added depth wallpaper 
+- Added Device as Webcam feature
+- Fixed annoying notification feature
+- Fixed "DONE" button in Bluetooth QS tile
+- Fixed deep sleep info
+- Split status bar vibrate and mute icon
+- Fixed battery styles percentage options
+- Fixed UDFPS animation position
+- Made BlazeHouse scrolling smooth
+- Enabled Now Playing
+
 # Changelogs 3.5
 - June security patch
 - Merged android QPR3
