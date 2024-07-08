@@ -1,3 +1,18 @@
+Changelog v3.6
+Build Date: 07/08/2024
+
+Device:
+- Signed user build to pass play integrity by default
+- Based on July security patch
+- Use AOSP default Codec2/OMX ranks
+- lmkd: kill heaviest task instead of any eligible task
+- Increase gpu boost for expensive rendering
+
+Kernel:
+- KernelSU not supported. Use APatch or magisk instead
+
+========================================
+
 Changelog v3.5
 Build Date: 06/29/2024
 
