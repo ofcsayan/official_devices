@@ -1,3 +1,16 @@
+Changelog v3.6
+Build Date: 8/07/2024
+- Enable AOSP surfaceflinger
+- DEXPREOPT Settings and SystemUI
+- Enable display smooth motion (SmoMo)
+- Optimize everything on preopt
+- Make dex2oat go fast
+- Optimize package manager dexopt properties
+- Performance optimizations for games
+- Use LZ4 Ramdisk
+- overlay: Adjust status bar padding
+- set Screen density to 400
+
 Changelog v3.5
 Build Date: 7/07/2024
 - Sync last source
