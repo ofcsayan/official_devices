@@ -1,3 +1,19 @@
+ProjectBlaze 3.6
+Build Date: 08/07/2024
+
+Changelog:
+- Improved SurfaceFlinger
+- Set zramswap for performance
+- Dalvik VM/Art tweaks
+- Configurd thermal trip points
+- Disable thermal throttling
+- Set CPU governer as performance
+- Adjusted read/write buffer size
+- Miscellaneous tweaks through props
+- Improve 1/0 scheduler & disable kernel logging
+- Powerful Misc tweaks 
+- Tweaked & improved kernel for stability
+
 ProjectBlaze 3.5
 Build Date: 28/06/2024
 
