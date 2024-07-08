@@ -1,3 +1,29 @@
+Changelogs 3.6
+Build Date 07 July, 2024
+
+- Signed Build
+- Device Certified by default
+- Comes with July SP
+- Replaced GCam with AGC Cam. MiCam still present
+- Added props for better network and 5G
+- Under the hood changes to increase performance and UI Smoothness 
+- Oneplus dolby still present
+- Visit our wallpaper group for Depth Wallpapers : https://t.me/rex_wallpapers
+
+Bugs: 
+- Circle to Search
+
+Note :
+- OTA is broken, Dirty flash from previous build
+- Dirty flash works if coming from my previous builds
+
+Credits:
+Thanks to @aquamanindiano for testing
+Thanks @dereference for the device sources
+Thanks to @igadityasingh for tree optimisation
+
+-----------------------------------------------
+
 Changelogs 3.5
 Build Date 29 June, 2024
 
