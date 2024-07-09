@@ -1,14 +1,10 @@
-Changelog v3.5
-Build Date: 22/06/2024
-- Synced with latest blaze source changes (QPR3 merged)
-- Siged build to pass itegrity check
-- Fixed low audio on wired earphones
-- Updated display blobs
-- Improved battery drain
-- Fixed hotspot bug
-- QS panel lag fix
-- Other miscellaneous changes 
+Changelog v3.6
+Build Date: 09/07/2024
+- Synced with latest blaze source changes 
+- Device as webcam
+- Lift to wake
+- updated blobs from latest hyperos
 
 Notes:
-- Clean Flash mandatory 
-- ota wiil be available from upcoming builds
+- To disconnect divice as web cam select no transfer option from USB Connected 
+- Changing kernel will break device as webcam
