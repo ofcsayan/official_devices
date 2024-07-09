@@ -1,3 +1,33 @@
+Changelog - 3.6
+Build Date - 8th July 2024
+
+- Improved surfaceflinger
+- Set zramswap for performance
+- Adjusted read/write buffer size
+- Set CPU Governer as Performance
+- Disable thermal throttling & setted Low memory killer
+- Configured thermal trip points
+- Dalvik VM/Art tweaks
+- Improved I/O scheduler & disable kernel logging
+- Disabled unwanted services
+- Miscellaneous tweaks
+- Enabled call recording in AOSP dialer
+- Enabled aptX(HD) offload
+- Used QCOM implementation for audio_effects
+- Added MiDolby with Oneplus DAX UI(Sound quality same as MIUI)
+- Added misoundfx and dirac effects in tree
+- Overall improved smoothness and UI performance ROM
+- No lags at all !!!
+
+Credits & Notes:
+- GAPPS & VANILLA both version are present
+- Double tap to wake still not working tried everything
+- Added @igadityasingh as co-maintainer & thanks for his tree improvements
+- Thanks @wanii_kumail @mrrobot_0101 @bnexxus and @Andrei_1024 for testing the ROMS
+- Thanks Aryan, Arian for base tree and shashank for the kernel tree
+
+----------------------------------------------
+
 Changelog - 3.5
 Build Date - 25th june 2024
 - Initial qpr3 release
