@@ -352,5 +352,12 @@
                 "telegram": "https://t.me/RexMiller07",
                 "github": "https://github.com/Prathamk07",
                 "avatar": "https://github.com/Prathamk07.png"
+        },
+	{
+                "name": "Sanji",
+                "telegram": "https://t.me/SanjiVns",
+                "github": "https://github.com/Sanjivns",
+                "avatar": "https://github.com/Sanjivns.png"
+
         }
 ]
