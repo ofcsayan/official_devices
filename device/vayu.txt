@@ -1,3 +1,36 @@
+Version: 3.6
+Build date: 07/07/'24
+- lmkd: kill heaviest task instead of any eligible task
+- Include libdpps
+- Build more libstagefright packages
+- Merge latest SkylineKernel
+
+Flashing steps:
+Clean:
+- Flash firmware (optional)
+- Wipe data, dalvik and cache
+- Flash Blaze
+- Flash gapps (vanilla | optional)
+- Format data
+- Reboot system
+
+Dirty:
+- Wipe dalvik and cache
+- Flash Blaze
+- Reboot system
+
+some notes:
+- If you will use blaze gapps variant no need to flash
+- Be sure to use Recovery that supports A14
+- Dirac, Dolby and Gcam are included
+- Use Nikgapps,releases 10Feb (vanilla)
+
+Credits:
+- Thanks to 𝓜¡ᴢꪊᔆիⲓ𐌽𝗈 Mohit Nikomy111 Mahinh611  for testing
+- Thanks to JazzeeBlaze for the banner
+
+====================================
+
 Version: 3.5
 Build date: 29/06/'24
 - QPR3 Adapt
