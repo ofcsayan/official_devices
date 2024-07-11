@@ -1,3 +1,24 @@
+Changelog - 3.6-HOTFIX
+Build Date - 11th July 2024
+
+- Fixed front camera in miuicamera
+- Increased speaker volume
+- Added FPS info tile
+- Added back XiaomiParts Vibration haptic
+- Corrected CPU to Cortex-A76
+- Enabled frame pacing
+- [Partial] Double tap to wake [Works with AOD ON]
+- Rest all other changelogs from 3.6 included
+- Smooth build !!!!!!
+
+Credits & Notes:
+- GAPPS & VANILLA both version are present
+- Thanks Aryan, Arian for base tree and shashank for the kernel tree
+- Thanks Aryan for miuicamera
+- Thanks @Andrei_1024 @God_X_Ace_Official @Di0p1 @wanii_kumail @AbuEusufAhmed for testing 
+
+----------------------------------------------
+
 Changelog - 3.6
 Build Date - 8th July 2024
 
