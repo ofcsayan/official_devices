@@ -1,3 +1,15 @@
+Changelogs 3.6
+Build Date: 11/07/2024
+
+- Setup DeviceAsWebcam
+- Mark recovery as permissive
+- Update blobs to OS1.0.4.0.UMSMIXM
+- Import LHDC and LDAC blobs
+- Update IMS blobs to haydn V816.0.1.0.UKKCNXM
+- Update adreno blobs to v744
+- Import missing camera blobs
+- Import libxlog.so
+
 Changelogs 3.5
 Build Date: 26/06/2024
 
