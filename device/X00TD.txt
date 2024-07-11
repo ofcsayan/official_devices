@@ -1,3 +1,24 @@
+v3.6 - Date 12 Jul 2024
+Changelogs:
+- Synced with latest blaze source changes (QPR3 merged)
+- Initial QPR3 build
+- Disable QTI perf lock usage in camera HAL
+- Disable SF backpressure
+- irqbalance improvements
+- Kernel upstream to v4.19.315
+- KernelSU enable.
+
+Credits:
+- @agiiillll27, @novabc for testing
+
+Notes:
+- Non-FBE and 4.19 based build
+- Use firmware only 063/087 recommended
+- GApps already include
+- Sign build.
+
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+
 v3.4 - Date 13 Jun 2024
 Changelogs:
 - Switch from Schedtune to UClamp
