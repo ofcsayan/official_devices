@@ -10,6 +10,7 @@
 - Fixed UDFPS animation position
 - Made BlazeHouse scrolling smooth
 - Enabled Now Playing
+- Added FPS Info tile
 
 # Changelogs 3.5
 - June security patch
