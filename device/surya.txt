@@ -1,3 +1,27 @@
+Version: 3.6 
+Build Date: 11/07/2024
+
+Device Changelog:
+- Latest Source Changes
+- July Security Patch [UQRR3]
+- CTS Pass [Signed Build] 
+- Rebased Device Tree
+- Enable Turbo Charging
+- Show Turbo Charging in Lock Screen
+- Enable VoLTE/ViLTE/VoWiFi For BD [470 MCC]
+- Enable VoLTE/ViLTE/VoWiFi For PT [268 MCC]
+- Add Battery Health Configs
+- Optimized Auto Brightness Adjustment
+- Enable LTE+ Icon By Default
+- Drop Power AIDL Extension
+- Use Powerhint For DT2W
+- Use QCOM QTI Vibrator HAL
+- Fixed Some Sepolicy Denials
+- Adjust Left Padding Of Statusbar
+- Fix Battery mAh Detection
+- Bringback Casefolding Support
+- Switched to Arise Igris [Beta]
+
 Version: 3.5 
 Build Date: 27/06/2024
 

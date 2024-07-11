@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1719468781,
-      "size": 2528041017,
-      "filehash": "57b64c7e06880561c22e82d273806f09",
-      "filename": "ProjectBlaze-3.5-surya-20240627-1207-GAPPS-OFFICIAL.zip",
-      "id": "0b9387e6d3a5f993dcf46d2c9476633ca9b2d84791bdedc80e019c42d27bfbd8",
+      "datetime": 1720645198,
+      "size": 2521027073,
+      "filehash": "c59be4afdb44e0bce1267f42db3050aa",
+      "filename": "ProjectBlaze-3.6-surya-20240711-0808-GAPPS-OFFICIAL.zip",
+      "id": "35bc2a6daab01cbfb87faff3ee4860a7a50a6f57a369e45ffa092665a5de9330",
       "romtype": "OFFICIAL",
-      "version": "3.5",
-      "url": "https://sourceforge.net/projects/projectblaze/files/surya/ProjectBlaze-3.5-surya-20240627-1207-GAPPS-OFFICIAL.zip/download"
+      "version": "3.6",
+      "url": "https://sourceforge.net/projects/projectblaze/files/surya/ProjectBlaze-3.6-surya-20240711-0808-GAPPS-OFFICIAL.zip/download"
     }
   ]
 }
