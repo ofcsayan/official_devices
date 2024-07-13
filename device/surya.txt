@@ -1,3 +1,13 @@
+Version: 3.6 [HOTFIX]
+Build Date: 11/07/2024
+
+Device Changelog:
+- Fix DT2S on lockscreen
+- Better ram management
+- Misc improvement 
+- Added vanilla build
+- Arise Igris 4.14.348 Kernel
+
 Version: 3.6 
 Build Date: 11/07/2024
 
