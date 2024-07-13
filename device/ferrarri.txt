@@ -4,6 +4,24 @@ Build Type : STABLE (Gapps)
 Maintainer : Omkar Parte ( @rakmoparte )
 
 =======================================
+Changelog For ProjectBlaze v3.6 STABLE
+              13-07-2024
+=======================================
+
+- Added KSU & Apatch Support
+- Removed BCR ( Aosp Dialer now included )
+- Updated Blobs to RMX3301_14.0.0.810(EX01)
+- Many For Misc Changes ( Too long to Mention )
+- Play Integrity Passes Builds are now Signed
+- Removed Recovery From OTA ( Use Ofox Better)
+- OTA Support Removed
+
+###  Flashing Step
+
+- Download Ofox and flash via fastoot
+- Flash rom from ofox via sideload
+
+=======================================
 Changelog For ProjectBlaze v3.3 STABLE
               18-05-2024
 =======================================
