@@ -1,6 +1,25 @@
 
 Project Blaze Garnet
 by PriQue
+
+July 14, 2024
+
+
+    LeicaCam is removed and MiuiCam compatible with Redmi and Poco is added
+    Enable aptX(HD) offload
+    Force disable iorapd
+    Switch to jemalloc for libc
+    Don't pin launcher app in memory
+    Disable slow blur effect to avoid laggish blur effect
+    Update props for netflix app
+    Build libpiex_shim
+    Increase headset volume
+    Fix PowerOffAlarm
+    Smooth_display -> min/peak_refresh_rate_switch
+    Various minor improvements
+
+
+
 July 02, 2024
 
 
