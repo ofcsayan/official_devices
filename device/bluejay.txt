@@ -1,12 +1,19 @@
+Changelogs: v3.6
+Build Date: 16/07/2024
+- Synced Latest Blaze v3.6 changes
+- Merged July ASB
+Installation note: Flash Latest Stock & then flash this build.
+This build need clean flash as build is signed with private keys so it can pass safetynet/play integrety..
+
+
 Changelogs 3.5
-Date: 30/06/2024
-================
+Build Date: 30/06/2024
 
 - Sync with last source (QPR3 merged)
 - Google Dialer dropped from Gapps Build(can be installed via Playstore)
 
-Date: 01/05/2024
-================
+
+Build Date: 01/05/2024
 
 - First Official Build
 - April Security Patch
