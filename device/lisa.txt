@@ -1,24 +1,7 @@
-ProjectBlaze 2.10-DAWN
-Buildate 26/09/2023
+Changelogs 3.6
+Build date 18/07/2024
 
-Changelog:
-- Merged September Security patch
-- Updated Dolby configs (All works)
-- Added Secure nfc
-- Updated miui cam to 4.5.002960.0
-- Added gfx acceleration
-- Switched to aosp 💬,📞,☎️
-- Fixed Smart pixels 
-- Fixed 90fps in BGMI
-- Improved ram management
-
-ProjectBlaze 2.9
-Build Date: 22/08/2023
-
-Changelog:
-- ProjectBlaze 2.9 based on QPR 3 / August 2023 Security patch
-- We are now Official
-- Added Dolby atmos (All works)
-- Updated Blaze Launcher to Latest
-- Added KSU Support 
-- Optimized 60hz over Ui
+- Initial Android 14 QPR3 Build By Me
+- Enforcing Build
+- Quicksilver Kernel
+- Leica Camera Prebuild 
