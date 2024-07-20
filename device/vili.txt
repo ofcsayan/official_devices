@@ -1,4 +1,22 @@
 Changelog v3.6
+Build Date: 07/20/2024
+
+Device:
+- Signed user build to pass play integrity by default
+- Based on July security patch
+- Syced latest source changes
+- Addressed some sepolicy denials
+- Added Notch Bar Killer overlay
+
+Kernel:
+- KernelSU is not supported. Use APatch or magisk instead
+- Improved scheduler
+- Overclock touch SPI bus to 10 MHz
+- Improved idle drain slightly
+
+========================================
+
+Changelog v3.6
 Build Date: 07/08/2024
 
 Device:
