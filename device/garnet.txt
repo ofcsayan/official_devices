@@ -2,6 +2,19 @@
 Project Blaze Garnet
 by PriQue
 
+July 21, 2024
+
+
+   Switch rama kernel v1.18 Linux stable version 5.10.222,clang 19,merge android 12-5.10
+   Fixed widevine exists l1 now
+   Fixed netflix and full ott app,it is full HD in addition to HDR 10 and HEVC
+   Fix problems hdr dolby vision
+   Switch moto dolby added effects and codecs Ozo
+   Fixed eSim for all regions
+   Fix micro lags
+
+
+
 July 14, 2024
 
 

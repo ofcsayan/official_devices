@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1720885559,
-      "size": 2653799564,
-      "filehash": "d613d3e87257f2fe72ad3bba9973a987",
-      "filename": "ProjectBlaze-3.6-garnet-20240713-1547-GAPPS-OFFICIAL.zip",
-      "id": "1923698c1330abf3444ddcb62c36b4fe08430211b653e1edc3c3376d9186e17a",
+      "datetime": 1721495211,
+      "size": 2648374786,
+      "filehash": "1efdb0f3dd9684209c1a9c614a7f2e15",
+      "filename": "ProjectBlaze-3.6-garnet-20240720-1708-GAPPS-OFFICIAL.zip",
+      "id": "175f075666e303401545a8e788771f78b6a70a6350e089aa7df1e9efc21016de",
       "romtype": "OFFICIAL",
       "version": "3.6",
-      "url": "https://sourceforge.net/projects/projectblaze/files/garnet/ProjectBlaze-3.6-garnet-20240713-1547-GAPPS-OFFICIAL.zip/download"
+      "url": "https://sourceforge.net/projects/projectblaze/files/garnet/ProjectBlaze-3.6-garnet-20240720-1708-GAPPS-OFFICIAL.zip/download"
     }
   ]
 }
