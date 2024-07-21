@@ -1,3 +1,12 @@
+Changelogs 3.6
+Build Date: 21/07/2024
+
+- Fixed videocall switching issue 
+- Fixed screen flicker
+- Added Dolby 
+- improve smoothness 
+- many more.....
+
 Changelogs 3.5
 Build Date: 01/07/2024
 
