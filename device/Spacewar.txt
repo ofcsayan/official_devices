@@ -1,41 +1,7 @@
 ==================================
-Changelog - v3.3
-Build Date - 16th May, 2024
+Changelog - v3.6
+Build Date - 23rd July, 2024
 ==================================
 
-Required Firmware: Nos 2.5.5
-
-- Nos Cam included
-- Updated blobs to 2.5.5
-- Improved performance
-- Misc improvements behind the hood
-
-Bugs: 
-- UDFPS customization settings crashes
-
-==================================
-Changelog - v3.2
-Build Date - 17th April, 2024
-==================================
-
-Required Firmware: Stable 2.5.3A or above
-
-- Nuked Dolby
-- QPR2 Merged
-- Nothing Cam included (not perfect)
-- BCR included
-- Updated base to latest 2.5.3A firmware
-- Misc improvements
-
-Bugs: 
-- QS tile shape
-- Screen cast
-
-==================================
-Changelog - v3.1
-Build Date - 27th February, 2024
-==================================
-
-- Initial A14 build
-- Nothing Cam included (not perfect)
-- Dolby included
+- Nos Cam fixed
+- Updated blobs to 2.6
