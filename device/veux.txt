@@ -1,4 +1,29 @@
 Changelogs 3.6
+Build Date 24 July, 2024
+
+- Signed Build
+- Fixed Play Integrity and CTS
+- Imported DPI from Stock (Things might seem a little small : Can customise from settings)
+- Fixed Lags and Jitters at certain areas
+- Under the hood chages to increase UI Smoothness
+- Oneplus dolby still present
+- Visit our wallpaper group for Depth Wallpapers : https://t.me/rex_wallpapers
+
+Bugs:
+- Circle to Search
+
+Note :
+- OTA is broken, Dirty flash from previous build
+- Dirty flash works if coming from my previous builds
+
+Credits:
+Thanks to @aquamanindiano for testing
+Thanks @dereference for the device sources
+Thanks to @igadityasingh for tree optimisation
+
+-----------------------------------------------
+
+Changelogs 3.6
 Build Date 07 July, 2024
 
 - Signed Build
