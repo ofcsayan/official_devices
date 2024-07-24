@@ -1,5 +1,11 @@
 Changelog v3.6
 Build Date: 8/07/2024
+- Sync last source
+- New leica added (must deactivate all parallel processing options in boratory settings)
+- Safetynet certifying
+
+Changelog v3.6
+Build Date: 8/07/2024
 - Enable AOSP surfaceflinger
 - DEXPREOPT Settings and SystemUI
 - Enable display smooth motion (SmoMo)
