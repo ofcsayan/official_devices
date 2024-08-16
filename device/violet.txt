@@ -1,3 +1,15 @@
+ProjectBlaze 3.7
+Build Date: 13/08/2024
+
+Changelog:
+- Switch to Vulkan UI renderer
+- Adjusted libdisplay targets
+- Fully upstreamed kernel
+- Improved idle drain
+- Switch to common libqti-perfd-client & power-libperfmgr
+- Signed build (no issue with bank apps)
+- Fixed major bugs from last update
+
 ProjectBlaze 3.6
 Build Date: 08/07/2024
 
