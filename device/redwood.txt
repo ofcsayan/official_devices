@@ -1,60 +1,17 @@
-Changelogs 3.6
-Build Date: 11/07/2024
-
-- Setup DeviceAsWebcam
-- Mark recovery as permissive
-- Update blobs to OS1.0.4.0.UMSMIXM
-- Import LHDC and LDAC blobs
-- Update IMS blobs to haydn V816.0.1.0.UKKCNXM
-- Update adreno blobs to v744
-- Import missing camera blobs
-- Import libxlog.so
-
-Changelogs 3.5
-Build Date: 26/06/2024
-
-- AtomxKernel With Ksu
-- Mi Cam (Leica)included
-- Xiaomi Dolby Included
-- the night photo option does not have the purple tint in the photos
-- Blobs Updated to leteast
-- Firmware is included
-- NFC works fine
-- Seftynet passed by Default
-- Many More Check your self
-
-Changelogs 3.3-HOTFIX
-Build Date: 30/05/2024
-
-- fts_ts support dropped 
-- Switched to Atomxkernel (ksu)
-- Synced with latest source
-- Signed build
-- Safetynet and certification passed
-
-NOTE:
-- Use the provided images to flash the rom
-
-Changelogs 3.3
-Build Date: 17/05/2024
-
-- Synced with latest blaze source changes
-- Added sku prop for Proper Identification 
-- Switched to Turbo kernel(with ksu)
-- Both Panel Supported(gtx8,fts_ts)
-- underhood optimizations and improvements
-
-Notes:
-- Added Updater, next time you can update through OTA or Local update
-- use LineageOs Recovery
-
-Changelogs 3.2
-Build Date: 15/04/2024
+Changelogs 3.7
+Build Date: 16/08/2024
 
 - Initial Official build
 - Leica camera included.
-- Dolby included.
+- Dolby Audio included.
 - Compatible with KernelSU.
-- Switched to ATOMX KERNEL
-- Battery 🔋 backup improved
-- Many more
+- Latest Yuki kernel included
+- Many changes for optimization
+- And many other changes
+
+Note:
+- You can do a dirty install if you are coming from my previous compilation
+- Use the rom recovery
+
+Credits:
+- Thanks to @TeamMEX_XDA For kernel and DT changes 🥰

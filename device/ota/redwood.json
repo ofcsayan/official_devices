@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1717034107,
-      "size": 2157245063,
-      "filehash": "f910090f75f8b5815b123aa2c24098ce",
-      "filename": "ProjectBlaze-3.3-redwood-20240530-0157-GAPPS-OFFICIAL.zip",
-      "id": "2e5ac983fcd9786864a33f7ca2621fa640e4ba3117580915f3db967e056dbafe",
+      "datetime": 1723830634,
+      "size": 2257575251,
+      "filehash": "48b74fbacdc4b514c1fd33b3b6c4b5c5",
+      "filename": "ProjectBlaze-3.7-redwood-20240816-1834-GAPPS-OFFICIAL.zip",
+      "id": "2a647024387eb3f8b97c14a6f4e9668fbcd29f42c6d8ffebfc365afb60328710",
       "romtype": "OFFICIAL",
-      "version": "3.3",
-      "url": "https://sourceforge.net/projects/projectblaze/files/redwood/ProjectBlaze-3.3-redwood-20240530-0157-GAPPS-OFFICIAL.zip/download"
+      "version": "3.7",
+      "url": "https://sourceforge.net/projects/projectblaze/files/redwood/ProjectBlaze-3.7-redwood-20240816-1834-GAPPS-OFFICIAL.zip/download"
     }
   ]
 }
