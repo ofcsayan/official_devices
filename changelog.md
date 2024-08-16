@@ -1,3 +1,9 @@
+# Changelogs 3.7
+- August Security Patch
+- Blaze Launcher in both variants (Blaze launcher is optional in Gapps Build)
+- Fixed the face unlock icon overlap on locksreen
+- Bring back QTI framework boost
+ 
 # Changelogs 3.6
 - July security patch
 - Added depth wallpaper 
