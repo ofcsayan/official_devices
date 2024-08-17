@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1720597608,
-      "size": 2782144353,
-      "filehash": "1ccc33fb603c21db919d66dc76aa578b",
-      "filename": "ProjectBlaze-3.6-raphael-20240710-0748-GAPPS-OFFICIAL.zip",
-      "id": "5ebf1a5ccf29f8aef2401fe6a31951546e48b31dfde349d49ec0ae05d8085df6",
+      "datetime": 1723902277,
+      "size": 2718244991,
+      "filehash": "5eb27186bed205ba2363cbb3fcb528bc",
+      "filename": "ProjectBlaze-3.7-raphael-20240817-1344-GAPPS-OFFICIAL.zip",
+      "id": "bb0172482aecd526af412bc6afa8d4ae36df2630cdd57f87df08a69bb472bf99",
       "romtype": "OFFICIAL",
-      "version": "3.6",
-      "url": "https://sourceforge.net/projects/projectblaze/files/raphael/ProjectBlaze-3.6-raphael-20240710-0748-GAPPS-OFFICIAL.zip/download"
+      "version": "3.7",
+      "url": "https://sourceforge.net/projects/projectblaze/files/raphael/ProjectBlaze-3.7-raphael-20240817-1344-GAPPS-OFFICIAL.zip/download"
     }
   ]
 }
