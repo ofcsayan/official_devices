@@ -1,3 +1,19 @@
+Version: 3.7
+Build Date: 20/08/2024
+
+Device Changelog:
+- Latest Source Changes
+- July Security Patch [UQRR3]
+- CTS Pass [Signed Build] 
+- Using NothingOS CarrierConfig
+- Switched To Pixel Power HAL
+- Leica As Default camera
+- Using Arise Igris v4.14.348-R2 [KSU]
+- Misc Improvement and Fixes
+
+Bugs:
+- DT2S on Lockscreen [Source Bug]
+
 Version: 3.6 [HOTFIX]
 Build Date: 11/07/2024
 
