@@ -1,3 +1,182 @@
+Changelogs For ProjectBlaze 3.7
+
+- Synced Latest Blaze v3.7 changes
+- Merged August ASB
+- Fully Rebased common device tree 
+- Dropped old style HBM and DC dimming and their kernel based implantation 
+- Introducing new HBM and DC dimming. Credits @EmanuelCN
+- Use game thermal as fallback for GameSpace's listed apps
+ * This will apply the "gaming" thermal preset to the app that listed
+at GameSpace's library, but aren't yet configured by user on thermal
+settings.
+With this behavior, we can get saner default on gaming scenarios without
+having to force user choice.
+
+- Reverted TOGGLEABLE_TILE in Dirac for now
+- Moved thermal profiles to system settings
+ * let's not pollute our beautiful battery settings menu
+
+- Added thermal profiles tile
+ * Launches ThermalActivity
+
+- Tuned zram performance
+ *Switch to LZ4 for better overall performance
+
+- Set zram size to 50% of total ram
+ * As recommended by CAF
+- Silenced some spammy logging
+- Allowed more cached apps in the background
+- Increased wifi max bss count
+- Enabled wifi QPower and Deep sleep at the same time
+ * This enables Deep Sleep mode, additionally to QPower
+ * With this configuration, QPower manages the new Deep sleep mode
+ -> Leads to amazing power savings
+
+- Enabled automatic channel selection
+  * Automatic Channel Selection algorithms and implementations
+   are used to enable interfaces to automatically figure
+   out which channel configuration to use for initiating
+   communication, for any mode of operation which initiates
+   radiation (AP, Mesh, IBSS, P2P).
+
+- Enabled support for IEEE80211AC
+ * This is to allow supporting GO with 11AC support.
+
+- Enabled support for IEEE80211AX
+  * This is to allow supporting WiFi 6 mobile hotspots,
+   to be noted this is only supported on SDM855+ platforms.
+- Many Wifi improvments 
+
+- Smarter wifi decisions on whether to use 2/5Ghz AP
+ * Implement a smarter system on whether to connect to the provided 2Ghz or 5Ghz network
+ 
+- Switch gEnablePowerSaveOffload to 5
+ *This should improve VoIP calls performance
+
+- Removed TxPower2g and 5g, because they weren't been used
+
+- Addressed telephony denials
+
+- Suppress warning related to NNAPI HAL accessing zeroth.debuglog.logmask
+
+- Disable QCOM system daemon
+ * For factory use only and has real performance costs.
+
+- Remove unnecessary QTI logkit directories
+ * We do not use logkit
+
+- Strip off some debug packages
+ * Ref: https://source.android.com/devices/tech/dalvik/configure#compilation_options
+ Q: PRODUCT_MINIMIZE_JAVA_DEBUG_INFO wth does this do?
+ A: https://android.googlesource.com/platform/build/+/master/target/product/go_defaults_common.mk#68
+
+- Address batterysecret denial
+ * Even MIUI provides create file permission.
+
+- Update pinner configuration 
+ * Pin critical graphics libraries
+Inspired from AOSPA/android_vendor_aospa@c33cdcb
+
+- Set readahead_size_kb=128 to main partitions
+ *To avoid memory pressure
+
+- Offload WM shell to another thread
+ * Android 12 added this config to offload some window management to a
+dedicated thread. Enable it to improve performance when the main System
+UI thread is busy.
+
+- Set default wifi country code to '00'
+* By default, AOSP uses the 'US' country code for wifi.
+
+When a SIM is present, Android can check the correct country
+(using information from the SIM itself) and it can set the correct
+country code.
+
+However, if no SIM is present or if the phone is in airplane mode,
+Android will just use 'US' as country code and it will disable access to
+a lot of frequencies.
+
+To bypass this issue, set the default country code to '00': this
+is the "world regulatory domain" and it contains generic settings.
+When a SIM is inserted, Android will overwrite the default setting with
+the correct country code.
+
+Copy from Google:
+https://android.googlesource.com/device/google/crosshatch/+/12b500667e5440345a7bd8237c38fa2839329c11/init.hardware.rc#524
+
+- Don't pin launcher app in memory
+ * Similar to what we did for the camera app, unpin the launcher app from
+memory as well. While the default launcher (Launcher3) isn't
+particularly big, it doesn't make much sense to pin because the launcher
+does not typically load new resources much. Most of its resources should
+already be loaded in memory after it starts, so pinning the APK is
+redundant.
+
+NB: The value has been changed to false instead of removing it entirely
+because we need to override the config set by overlays in the prebuilt
+vendor image.
+
+- Change all three default haptic levels to high
+ * Test: verify default haptic levels set to high on r4
+
+- Enable suspend to RAM
+ * Improves idle drain considerably
+
+- Bind mount Wifi Aware feature permissions.
+ * Fixes issues when GPS and Wifi are switched on simultaneously.
+ * Also kills logspam regarding NAN.
+
+- Wifi: set inactivity time
+ * Wait for 1 second to let wifi driver do
+   complete clean reset of SW/HW.
+   Test: perform watchdog recovery and success
+
+- Extend gInterfaceChangeWait to 2 seconds for avoid crash when "adb reboot"
+ * Test: "adb reboot" test more than 4000 times and not hit crash as b/131123423
+      Wifi work normally after the same test.
+
+- Props: RIL edits for battery life
+ * Changed “ro.ril.disable.power.collapse” value to zero.
+   Seems to be a debate on what value is more effective but after more reading and testing found that a value of “0” shows more improvement.
+   Have also added “ro.mot.eri.losalert.delay=1000 “ that helps smooth out disconnects and reconnects, saving battery.
+
+- Add some libraries to pinner list
+ * Add some librart which will load during camera launch to reduce camera
+   launch time in I/O busy case.
+
+- Overlay: Frameworks: Update pinner configuration
+ * Drop unused 32-bit libs.
+   Drop RS libs as they're deprecated since 12.
+   Add few adreno (EGL) libs, taken from MIUI.
+   Add libipebpsstriping170 for yupik camx.
+
+- Reduced aod brightness value
+
+- Silence OpenGLRenderer logspams
+
+- props: Add more props for battery saving
+
+- props: Clean up useless logspams
+
+- Update Adreno to LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+
+- Update adreno blobs from LA.VENDOR.1.0.r1-16000-WAIPIO.QSSI13.0
+
+- overlay: Tune max notification icons visible
+ * Ref:
+  - AOSPA/android_device_xiaomi_marble@3db7e76.
+  - AOSPA/android_device_xiaomi_marble@7d57769.
+
+- Powerhint: Set to powersave governor when device is idle
+ * This should help improve drains while device on idle
+
+- Disabled VT
+ * Avoid unexpected hangups due to failure to establish a connection
+
+- Switched to common libqti-perfd-client and power-libperfmgr
+
+- Added advanced debugging tools to get logs even in userdebug/user builds
+
 Changelogs For ProjectBlaze 3.6
 Build Date: 13/07/2024
 - Synced Latest Blaze v3.6 changes
