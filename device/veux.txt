@@ -1,3 +1,28 @@
+Changelogs 3.7
+Build Date 23 August, 2024
+
+- Signed Build and Updated Pif
+- Added props for UI smoothness
+- Fixed all kinds of lags/jitters
+- Bring back option for Peak, Min and adaptive refresh rate
+- Worked on overall UI balance without compromising on battery
+- Disabled Wallpaper zooming which in some cases cause jitters
+- Visit our wallpaper group for Depth Wallpapers : https://t.me/rex_wallpapers
+
+Bugs:
+- Circle to Search
+
+Note :
+- OTA is broken, Dirty flash from previous build
+- Let the rom settle for atleast a day before reporting lags/jitters
+
+Credits:
+Thanks to @aquamanindiano for testing
+Thanks @dereference for the device sources
+Thanks to @igadityasingh for tree optimisation
+
+-----------------------------------------------
+
 Changelogs 3.6
 Build Date 24 July, 2024
 
