@@ -1,3 +1,24 @@
+Changelogs v3.7
+Build Date: 24/08/24
+- Build Missing libs needed by GPS HAL
+- Build some vendor modules for RIL and WFD
+- Build android.hardware.audio.sounddose-vendor-impl
+- Label some RIL property
+- Disable NFC service by default
+- Import missing QSEECOMD libraries
+- Nuke max cached processes override
+- Correct maximum microphone count
+- Set correct channel mask for earpiece
+- Allow surfaceflinger to access firmware
+- Tweak lmk props
+- Disable dynamic refreshrate 
+- limited the dex2oat resouce when thermal stress
+
+CREDITS -
+• @jabiyeff21 & @dblenk9 For Trees
+• @AkiraNoSushi & @muralivijay9845 For Kernel
+• Thanks @pratikanurag For Testing
+
 Changelogs v3.5
 Build Date: 29/06/2024
 - Rework thermal
